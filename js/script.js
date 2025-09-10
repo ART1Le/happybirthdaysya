@@ -1,5 +1,5 @@
 const quizData = [
-  { q: "Kapan pertama kali kita ketemu langsung? (ddmmyyyy)", a: "08092025", type: "text" },
+  { q: "Kapan pertama kali kita jalan? (ddmmyyyy)", a: "08092025", type: "text" },
   { q: "Apa nama panggilan yang kamu kasih ke aku?", a: "sey", type: "text" },
   { q: "Apa lagu yang pertama kali aku kasih tau ke kamu?", a: "softspot", type: "text" },
   { q: "Siapa yang suka bete? (pake nama panggilan)", a: "sya", type: "text" },
@@ -150,3 +150,4 @@ function generateQR() {
 
 // Mulai quiz
 loadQuestion();
+
